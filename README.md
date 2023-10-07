@@ -1,6 +1,6 @@
 # RCTN-KS08-017
 
-react & vite
+currency app
 
 1. clone repository
 2. dapatkan API dari https://currencyfreaks.com/
@@ -11,4 +11,4 @@ react & vite
 5. ubah pada bagian YOUR_API_KEY menjadi key yang di dapatkan dari https://currencyfreaks.com/
 6. jalankan npm install
 7. jalankan npm run dev
-8. buka http://localhost:5173/
+8. buka http://localhost:5173/ dengan browser
