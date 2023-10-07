@@ -11,3 +11,4 @@ react & vite
 5. ubah pada bagian YOUR_API_KEY menjadi key yang di dapatkan dari https://currencyfreaks.com/
 6. jalankan npm install
 7. jalankan npm run dev
+8. buka http://localhost:5173/
